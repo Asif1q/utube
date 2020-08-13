@@ -17,7 +17,7 @@ import time
 
 import os
 
-from tobrot import (
+from bot import (
     DOWNLOAD_LOCATION
 )
 
