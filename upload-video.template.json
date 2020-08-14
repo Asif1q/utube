@@ -1,0 +1,9 @@
+{
+  "part": "snippet",
+  "body": {
+    "snippet": {
+      "title": $title,
+      "description": $description
+    }
+  }
+}
