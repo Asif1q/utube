@@ -10,7 +10,7 @@ class UtubeBot(Client):
             bot_token = Config.BOT_TOKEN,
             api_id = Config.API_ID, 
             api_hash = Config.API_HASH,
-            DOWNLOAD_LOCATION = Config.DOWNLOAD_LOCATION,
+            download_location = Config.DOWNLOAD_LOCATION,
             plugins = dict(
                 root="bot.plugins"
             ), 
